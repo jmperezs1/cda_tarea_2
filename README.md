@@ -8,16 +8,15 @@ Juan Manuel Pérez - 202021827
 1. tarea-2.ipynb
 
 ## Instrucciones de ejecución y dependencias.
-pandas
-numpy
-matplotlib
-ydata-profiling
-scikit-learn
-mlxtend
-shap
-lime
-scipy
-
+- pandas
+- numpy
+- matplotlib
+- ydata-profiling
+- scikit-learn
+- mlxtend
+- shap
+- lime
+- scipy
 ```
 pip install pandas numpy matplotlib ydata-profiling scikit-learn mlxtend shap lime scipy
 ```

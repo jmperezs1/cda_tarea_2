@@ -7,6 +7,9 @@ Juan Manuel Pérez - 202021827
 ## Orden de ejecucion
 1. tarea-2.ipynb
 
+## Informe ejecutivo
+Se encuentra en el archivo ```INFORME EJECUTIVO.pdf```
+
 ## Instrucciones de ejecución y dependencias.
 - pandas
 - numpy
